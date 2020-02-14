@@ -1,2 +1,3 @@
 # ZBBB_CustomScenery
-A in progress custom scenery for ZBBB Beijing XiJiao
+An in progress custom scenery for ZBBB Beijing XiJiao
+Beijing XiJiao does not have a ICAO code so it will be assigned as BJS, a acronym for Beijing.
